@@ -1,0 +1,17 @@
+body {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	background:url(Wallpaper.04.jpg) center no-repeat; 
+	background-attachment:fixed;
+
+
+}
+
+#header-name {
+	font-size: 35px;
+	color: #58c3c2;
+	padding: 15px;
+	margin: 0px 0px 0px 0px;
+}
+
