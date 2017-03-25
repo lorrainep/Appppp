@@ -22,8 +22,16 @@ body {
 	float: center;
 	padding: 5px;
 	margin: 5px 0px 5px 5px;
-
 }
+
+#Email {
+float: right;
+}
+
+#Password {
+	float:right;
+}
+
 #Welcome {
 	float: left;
 	margin: 10px 10px 0px 0px;
@@ -37,12 +45,13 @@ ul {
 	width: 100px;
 	background-color: #f1f1f1;
 	text-align: center;
-
 }
+
 
 li {
 	display: inline;
 }
+
 
 li a {
 	display: block;
@@ -55,4 +64,28 @@ li a {
 li a:hover {
 	background-color: black;
 	color: white;
+}
+
+#AquaNecklace {
+	margin: 10px 20px 10px 10px;
+}
+
+#BlueBracelet {
+	margin: 10px 20px 10px 10px;
+}
+
+#BlueGlassNecklace {
+	margin: 10px 20px 10px 10px;
+}
+
+#BlueNecklace {
+	margin: 10px 20px 10px 10px;
+}
+
+#BlueSeaGlassEarrings {
+	margin: 10px 20px 10px 10px;
+}
+
+#GreenEarrings {
+	margin: 10px 20px 10px 10px;
 }
