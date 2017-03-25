@@ -2,16 +2,57 @@ body {
 	width: 1000px;
 	margin-left: auto;
 	margin-right: auto;
-	background:url(Wallpaper.04.jpg) center no-repeat; 
-	background-attachment:fixed;
-
+	background:url(img/cork-wallet.png) center no-repeat;
+	background-attachment: fixed;
+	background-size: 100%;
 
 }
 
 #header-name {
-	font-size: 35px;
+	font-size: 40px;
 	color: #58c3c2;
 	padding: 15px;
 	margin: 0px 0px 0px 0px;
+	padding: 15px;
+	font-family: jabjai;
+	
 }
 
+#search {
+	float: center;
+	padding: 5px;
+	margin: 5px 0px 5px 5px;
+
+}
+#Welcome {
+	float: left;
+	margin: 10px 10px 0px 0px;
+}
+
+
+ul {
+	list-style-type: ;
+	margin: 0;
+	padding: 0;
+	width: 100px;
+	background-color: #f1f1f1;
+	text-align: center;
+
+}
+
+li {
+	display: inline;
+}
+
+li a {
+	display: block;
+	color: white;
+	padding: 8px 16px;
+	text-decoration: none;
+	background-color: #555;
+}
+
+li a:hover {
+	background-color: black;
+	color: white;
+}
