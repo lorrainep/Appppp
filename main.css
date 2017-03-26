@@ -14,7 +14,7 @@ body {
 	padding: 15px;
 	margin: 0px 0px 0px 0px;
 	padding: 15px;
-	font-family: jabjai;
+	font-style: italic;
 	
 }
 
@@ -32,9 +32,20 @@ float: right;
 	float:right;
 }
 
-#Welcome {
+h1 {
 	float: left;
-	margin: 10px 10px 0px 0px;
+	margin: 10px 0px 0px 0px;
+	width: 140px;
+	text-align: center;
+	font-style: italic;
+	color: white
+	text-shadow: 2px 2px 4px #000000;
+}
+
+p {
+	color: black;
+	width: 160px;
+	height: 100px;
 }
 
 
@@ -66,6 +77,55 @@ li a:hover {
 	color: white;
 }
 
+#Seaglassslide1 {
+	position: absolute;
+	top: 150px;
+	left: 300px;
+	width: 230px;
+	height: 230px;
+	margin: 0px 0px 0px 0px;
+	box-shadow: 0px 10px 5px #888888;
+}
+
+#Seaglassslide2 {
+	position: absolute;
+	top: 150px;
+	left: 530px;
+	width: 230px;
+	height: 230px;
+	margin: 0px 0px 0px 0px;
+	box-shadow: 0px 10px 5px #888888;
+}
+
+#Seaglassslide3 {
+	position: absolute;
+	top: 150px;
+	left: 760px;
+	width: 230px;
+	height: 230px;
+	margin: 0px 0px 0px 0px;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+#SIDENOTE {
+	position: absolute;
+	font-style: italic;
+	top: 150px;
+	right: 50px;
+	width: 100px;
+	height: 10px;
+	margin: 0px 0px 0px 0px;
+}
+
+#p1 {
+	position: absolute;
+	top: 40px;
+	right: 0px;
+	width: 90px;
+	height: 50px;
+	margin: 0px 0px 0px 0px;
+}
+
 #AquaNecklace {
 	margin: 10px 20px 10px 10px;
 }
@@ -87,5 +147,77 @@ li a:hover {
 }
 
 #GreenEarrings {
+	margin: 10px 20px 10px 10px;
+}
+
+#GreenNecklace {
+	margin: 10px 20px 10px 10px;
+}
+
+#Picture1 {
+	margin: 10px 20px 10px 10px;
+}
+
+#Picture2 {
+	margin: 10px 20px 10px 10px;
+}
+
+#Picture3 {
+	margin: 10px 20px 10px 10px;
+}
+
+#Picture4 {
+	margin: 10px 20px 10px 10px;
+}
+
+#Picture5 {
+	margin: 10px 20px 10px 10px;
+}
+
+#Picture6 {
+	margin: 10px 20px 10px 10px;
+}
+
+#Picture7 {
+	margin: 10px 20px 10px 10px;
+}
+
+#Picture8 {
+	margin: 10px 20px 10px 10px;
+}
+
+#Picture9 {
+	margin: 10px 20px 10px 10px;
+}
+
+#Picture10 {
+	margin: 10px 20px 10px 10px;
+}
+
+#Picture11 {
+	margin: 10px 20px 10px 10px;
+}
+
+#Picture12 {
+	margin: 10px 20px 10px 10px;
+}
+
+#Picture13 {
+	margin: 10px 20px 10px 10px;
+}
+
+#Picture14 {
+	margin: 10px 20px 10px 10px;
+}
+
+#Picture15 {
+	margin: 10px 20px 10px 10px;
+}
+
+#Picture16 {
+	margin: 10px 20px 10px 10px;
+}
+
+#Greenglass {
 	margin: 10px 20px 10px 10px;
 }
